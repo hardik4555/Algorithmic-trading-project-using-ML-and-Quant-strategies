@@ -1,1 +1,2 @@
 # Algorithmic-trading-project-using-ML-and-Quant-strategies
+This project implements various unsupervised learning techniques in the context of algorithmic trading and quant strategies. The goal is to enhance trading decisions by using machine learning algorithms to analyze market patterns and trends without labeled data. The project explores different models to identify clusters and patterns in financial data, which can then be used to inform trading strategies.
